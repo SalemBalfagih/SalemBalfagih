@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **[WhatsApp](https://wa.me/967773139096)**
 
+- 📧 Email me at **salem.m.it.2020@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/aldooory1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldooory1" height="30" width="40" /></a>
