@@ -76,7 +76,7 @@
   <a href="https://github-profile-trophy.vercel.app/?username=salembalfagih&theme=radical">
     <img src="https://github-profile-trophy.vercel.app/?username=salembalfagih&theme=radical" alt="Trophies" style="max-width: 100%;">
   </a>
-</p>
+</p> 
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
