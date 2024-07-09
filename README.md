@@ -66,29 +66,20 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=salembalfagih&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=salembalfagih&show_icons=true&theme=radical" alt="Salem's GitHub stats" style="max-width: 100%;">
-  </a>
-</p>
-
-<h3 align="left">GitHub Streak:</h3>
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=salembalfagih&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salembalfagih&theme=radical" alt="GitHub Streak" style="max-width: 100%;">
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salembalfagih&show_icons=true&theme=radical" alt="Salem's GitHub stats" style="max-width: 100%; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salembalfagih&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
 </p>
 
 <h3 align="left">Trophies:</h3>
-<p align="center">
+<p align="left">
   <a href="https://github-profile-trophy.vercel.app/?username=salembalfagih&theme=radical">
     <img src="https://github-profile-trophy.vercel.app/?username=salembalfagih&theme=radical" alt="Trophies" style="max-width: 100%;">
   </a>
 </p>
 
 <h3 align="left">Top Languages:</h3>
-<p align="center">
+<p align="left">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=salembalfagih&layout=compact&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salembalfagih&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;">
   </a>
