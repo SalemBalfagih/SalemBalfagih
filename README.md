@@ -81,6 +81,6 @@
 <h3 align="left">Top Languages:</h3>
 <p align="left">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SalemBalfagih&layout=compact&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salembalfagih&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalemBalfagih&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;">
   </a>
 </p>
