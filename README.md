@@ -35,7 +35,7 @@ I'm a professional Flutter Developer passionate about building scalable, product
 
 ## 📱 Featured Projects
 
-### 🔹 Net Card – Digital Business Cards  
+### 🔹 Net Card   
 📍 Published on Google Play  
 https://play.google.com/store/apps/details?id=com.netcard.sam  
 
